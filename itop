@@ -47,3 +47,4 @@ systemctl restart apache2
 
 echo "iTop installation completed."
 echo "Access the site using http://Your_ip_address/itop"
+echo "Added from GitHub"
